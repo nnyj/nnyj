@@ -8,6 +8,7 @@ Software engineer/DevOps from Malaysia. I build tools that fix small annoying th
 
 **Editor extensions**
 - [obsidian-mobile-tab-bar](https://github.com/nnyj/obsidian-mobile-tab-bar) — browser-style tab bar for Obsidian mobile
+- [obsidian-indented-table](https://github.com/nnyj/obsidian-indented-table) — styles indented pipe tables in Obsidian live preview
 - [obsidian-fix-tab-size](https://github.com/nnyj/obsidian-fix-tab-size) — fixes Obsidian's hardcoded 4-space list indent
 - [obsidian-nnyj-syntax-highlight](https://github.com/nnyj/obsidian-nnyj-syntax-highlight) — CM6 syntax decorations for markdown notes
 - [vscode-line-highlight](https://github.com/nnyj/vscode-line-highlight) — file-based line highlighting for VS Code, driven by JSON or AI tools

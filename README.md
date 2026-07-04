@@ -3,6 +3,8 @@
 Software engineer/DevOps from Malaysia. I build tools that fix small annoying things.
 
 **Audio**
+- [Deej-AI](https://github.com/nnyj/Deej-AI) — "keep playing songs like this" for foobar2000, similar-sounding playlists from your local library via ONNX
+- [pyVBAN](https://github.com/nnyj/pyVBAN) — VBAN network audio in Python, send/receive PCM or Opus with device picker CLI
 - [python-audio-separator-live](https://github.com/nnyj/python-audio-separator-live) — real-time audio source separation using MDX-NET
 - [virtual-surround-sound](https://github.com/nnyj/virtual-surround-sound) — virtual 7.1 surround sound for Windows via standalone VAD
 
@@ -16,6 +18,7 @@ Software engineer/DevOps from Malaysia. I build tools that fix small annoying th
 - [vscode-nnyj-syntax-highlight](https://github.com/nnyj/vscode-nnyj-syntax-highlight) — custom TextMate grammar injections for Markdown
 
 **Desktop**
+- [wearos-remote](https://github.com/nnyj/wearos-remote) — lock/sleep/wake a PC from a Galaxy Watch, Wear OS tile + Wake-on-LAN
 - [WakeScope](https://github.com/nnyj/WakeScope) — Windows wake/sleep monitor
 - [shelter-plugins](https://github.com/nnyj/shelter-plugins) — Discord client plugins for Shelter
 

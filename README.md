@@ -5,7 +5,7 @@ Software engineer/DevOps from Malaysia. I build tools that fix small annoying th
 **Audio**
 - [Deej-AI](https://github.com/nnyj/Deej-AI) — "keep playing songs like this" for foobar2000, similar-sounding playlists from your local library via ONNX
 - [pyVBAN](https://github.com/nnyj/pyVBAN) — VBAN network audio in Python, send/receive PCM or Opus with device picker CLI
-- [python-audio-separator-live](https://github.com/nnyj/python-audio-separator-live) — real-time audio source separation using MDX-NET
+- [python-audio-separator-live](https://github.com/nnyj/python-audio-separator-live) — real-time vocal/instrumental separation using MDX-NET and MelBand Roformer
 - [virtual-surround-sound](https://github.com/nnyj/virtual-surround-sound) — virtual 7.1 surround sound for Windows via standalone VAD
 
 **Editor extensions**

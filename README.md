@@ -24,7 +24,7 @@ Software engineer/DevOps from Malaysia. I build tools that fix small annoying th
 - [shelter-plugins](https://github.com/nnyj/shelter-plugins) — Discord client plugins for Shelter
 
 **DevOps**
-- [azure-instance-selector](https://github.com/nnyj/azure-instance-selector) — filter Azure VM sizes by vCPU/memory/GPU/price with spot pricing, credential-free Azure port of amazon-ec2-instance-selector
+- [azure-instance-selector](https://github.com/nnyj/azure-instance-selector) — filter Azure VM sizes by vCPU/memory/GPU/price with spot pricing, no Azure account needed
 
 **Scripts**
 - [user-scripts](https://github.com/nnyj/user-scripts) — browser userscripts

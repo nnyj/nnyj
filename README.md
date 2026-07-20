@@ -9,7 +9,8 @@ Software engineer/DevOps from Malaysia. I build tools that fix small annoying th
 - [virtual-surround-sound](https://github.com/nnyj/virtual-surround-sound) — headphone virtual 7.1 surround on Windows, custom APO + VB-Cable + HeSuVi with live output switching
 - [jscript-panel-docs](https://github.com/nnyj/jscript-panel-docs) — JScript Panel 3 docs & binary for foobar2000
 
-**Editor extensions**
+**Editor & browser extensions**
+- [firefox-tab-discard-startup](https://github.com/nnyj/firefox-tab-discard-startup) — discard pinned tabs on Firefox startup so TST/Sidebery show them unloaded
 - [obsidian-mobile-tab-bar](https://github.com/nnyj/obsidian-mobile-tab-bar) — browser-style tab bar for Obsidian mobile
 - [obsidian-indented-table](https://github.com/nnyj/obsidian-indented-table) — styles indented pipe tables in Obsidian live preview
 - [obsidian-fix-tab-size](https://github.com/nnyj/obsidian-fix-tab-size) — fixes Obsidian's hardcoded 4-space list indent

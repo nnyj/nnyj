@@ -3,6 +3,9 @@
 Software engineer/DevOps from Malaysia. I build tools that fix small annoying things.
 
 **Audio**
+- [utasub](https://github.com/nnyj/utasub) — stamp official lyrics onto concert videos, ASR + forced alignment + timeline GUI, srt/ass export
+- [lyrickit](https://github.com/nnyj/lyrickit) — synced-lyrics fetching library, NetEase/LRCLib providers, LRC parsing, credit-line filtering
+- [romakit](https://github.com/nnyj/romakit) — CJK detection and romanization tuned for song lyrics
 - [Deej-AI](https://github.com/nnyj/Deej-AI) — "keep playing songs like this" for foobar2000, similar-sounding playlists from your local library via ONNX
 - [pyVBAN](https://github.com/nnyj/pyVBAN) — VBAN network audio in Python, send/receive PCM or Opus with device picker CLI
 - [python-audio-separator-live](https://github.com/nnyj/python-audio-separator-live) — real-time vocal/instrumental separation using MDX-NET and MelBand Roformer

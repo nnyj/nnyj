@@ -25,6 +25,7 @@ Software engineer/DevOps from Malaysia. I build tools that fix small annoying th
 **Desktop**
 - [wearos-remote](https://github.com/nnyj/wearos-remote) — lock/sleep/wake a PC from a Galaxy Watch, Wear OS tile + Wake-on-LAN
 - [WakeScope](https://github.com/nnyj/WakeScope) — Windows wake/sleep monitor
+- [EarTrumpet](https://github.com/nnyj/EarTrumpet) — fork adding hidden-apps: hide chosen apps from the volume flyout, manage via settings page
 - [shelter-plugins](https://github.com/nnyj/shelter-plugins) — Discord client plugins for Shelter
 
 **DevOps**
